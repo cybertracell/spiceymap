@@ -115,7 +115,7 @@ Next you will be asked to enter an available network interface, Of course it sho
 
 #### NETCAT SEND/RECEIVE MESSAGES
 
-After that it will ask you if you want to use netcat for sending/receiving messages. Netcat is commonly used for testing the interaction of a network and just generally used for debugging network issues. It is up to you whether you want to use the Netcat option by doing the yes or no input.
+After that it will ask you if you want to use netcat for sending/receiving messages. Netcat is commonly used for testing the interaction of a network and just generally used for debugging network issues. It is up to you whether you want to use the Netcat option by doing the yes or no input. This second port scanning option is basically an 'are you sure' kind of thing.
 
 ### TCP TXT/PCAP FILES
 
