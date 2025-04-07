@@ -68,7 +68,7 @@ Or, proceed on reading the $PICEYMAP OVERVIEW section below to know in detail ho
 
 As soon as you launch the shell program, you will be asked to put in an IP address (192.168.0.1/24 or, Your gateway is the default if nothing is typed in)
 
-The input does also accept web addresses (Example: http://scanme.nmap.org/) and not just IP addresses. However, it is worth noting that I have heavily tested this shell script on my home network and not any kind of website so keep that in mind as there could potentially be issues ahead in scanning websites.
+The input does also accept web addresses (Example: http://scanme.nmap.org/) and not just IP addresses. However, it is worth noting that I have heavily tested this shell script on my home network and not any kind of website so keep that in mind as there could potentially be issues ahead in scanning websites (The DNS address of an IP).
 
 Next the program will ask you to add a port (Optional).
 
